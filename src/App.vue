@@ -1,6 +1,6 @@
 <template>
   <q-layout view="hHh lpR fFf">
-    <q-header elevated class="glossy">
+    <q-header  class="bg-orange-6">
       <q-toolbar>
         <q-btn
           flat
@@ -36,7 +36,7 @@
               <q-item-label>
                 Home
               </q-item-label>
-              <q-item-label caption>quasar.dev</q-item-label>
+              <q-item-label caption>Home</q-item-label>
             </q-item-section>
           </router-link>
         </q-item>
