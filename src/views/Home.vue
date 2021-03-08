@@ -8,7 +8,7 @@
   <div class="row">
     <div class="col">
       <q-table
-      title="Treats"
+      title="IP Address ranges"
       :data="result"
       row-key="name"
       :pagination.sync="pagination"
