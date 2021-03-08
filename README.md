@@ -2,6 +2,8 @@
 
 Helps you find the AWS IP address range. You can find detailed docs at https://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html
 
+![Screenshot](src/assets/screenshot.png)
+
 ## Project setup
 ```
 npm install
