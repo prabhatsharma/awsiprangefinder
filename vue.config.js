@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: "/awsiprangefinder/",
   pluginOptions: {
     quasar: {
       importStrategy: 'kebab',
