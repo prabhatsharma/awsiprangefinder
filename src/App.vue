@@ -51,13 +51,13 @@
           </q-item-section>
         </q-item>
 
-        <q-item clickable tag="a" target="_blank" href="https://github.com/aws-samples/">
+        <q-item clickable tag="a" target="_blank" href="https://github.com/prabhatsharma/awsiprangefinder">
           <q-item-section avatar>
             <q-icon name="code" />
           </q-item-section>
           <q-item-section>
             <q-item-label>Github</q-item-label>
-            <q-item-label caption>github.com/aws-samples/</q-item-label>
+            <q-item-label caption>github.com/prabhatsharma/awsiprangefinder</q-item-label>
           </q-item-section>
         </q-item>
 
